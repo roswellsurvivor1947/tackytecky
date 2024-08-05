@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap");
+
+html,
+body {
+  font-family: "IBM Plex Sans";
+  text-align: center;
+}
+
+.Ragnarok-Text {
+    background: linear-gradient(red, blue);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
